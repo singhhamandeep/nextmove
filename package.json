@@ -1,0 +1,15 @@
+{
+  "name": "nextmove",
+  "version": "1.0.0",
+  "description": "What should I do next? — AI-powered goal and action tracker",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
